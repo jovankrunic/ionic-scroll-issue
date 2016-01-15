@@ -8,7 +8,7 @@ This is a demo ionic app which illustrates issue we are experiencing while devel
 
 This is the native scrolling issue we are experiencing:
 
-**Issue: native scroll becomes frozen after using modal window**
+**Issue: native scroll (side menu) becomes frozen after using modal window**
 
 Note: Native scrolling previously enabled using: $ionicConfigProvider.scrolling.jsScrolling(false).
 
