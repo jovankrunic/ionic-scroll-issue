@@ -14,7 +14,7 @@ Note: Native scrolling previously enabled using: $ionicConfigProvider.scrolling.
 
 **Situation:**
 
-1. Open modal window (in this demo, this is ‘Login’)
+1. Open modal window (in this demo, this is ‘Login’ menu item)
 2. Change orientation of the mobile device (while modal window is still opened)
 3. Close modal window
 4. Click to open side menu
